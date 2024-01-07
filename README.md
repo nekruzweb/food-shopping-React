@@ -1,3 +1,6 @@
+# Web site domain: https://nekruzweb.github.io/food-shopping-React/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
