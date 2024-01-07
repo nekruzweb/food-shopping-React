@@ -1,4 +1,4 @@
-# Web site domain: https://nekruzweb.github.io/food-shopping-React/
+# Web site Domain:➡ https://nekruzweb.github.io/food-shopping-React/
 
 
 # Getting Started with Create React App
