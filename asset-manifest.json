@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/food-shopping-React/static/css/main.a4fce726.css",
+    "main.js": "/food-shopping-React/static/js/main.c2b1e12c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/food-shopping-React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/meals.jpg": "/food-shopping-React/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/food-shopping-React/index.html",
+    "main.a4fce726.css.map": "/food-shopping-React/static/css/main.a4fce726.css.map",
+    "main.c2b1e12c.js.map": "/food-shopping-React/static/js/main.c2b1e12c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/food-shopping-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4fce726.css",
+    "static/js/main.c2b1e12c.js"
+  ]
+}
